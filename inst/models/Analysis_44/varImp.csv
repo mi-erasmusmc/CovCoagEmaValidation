@@ -1,0 +1,34 @@
+"covariateId","covariateName","analysisId","conceptId","covariateValue"
+22593,"Cohort_covariate during day -99999 through 0 days relative to index:  Thrombophilia  ",456,-1,-3.74291446742131
+20003,"age group: 100 - 104",3,0,3.05942886577903
+19003,"age group:  95 -  99",3,0,2.87411119111605
+21003,"age group: 105 - 109",3,0,2.86343150167113
+18003,"age group:  90 -  94",3,0,2.62892145150683
+22608,"Cohort_covariate during day -183 through -4 days relative to index:  Hormonal_contraceptives  ",456,-1,-2.56396820224544
+17003,"age group:  85 -  89",3,0,2.20600874905496
+16003,"age group:  80 -  84",3,0,1.85379901807709
+15003,"age group:  75 -  79",3,0,1.41599750216755
+22607,"Cohort_covariate during day -183 through -4 days relative to index:  Tamoxifen  ",456,-1,-1.15707171127967
+14003,"age group:  70 -  74",3,0,0.754036088471731
+22615,"Cohort_covariate during day -99999 through 0 days relative to index:  Dementia  ",456,-1,0.688523974670729
+8507001,"gender = MALE",1,8507,0.519795451828106
+22616,"Cohort_covariate during day -99999 through 0 days relative to index:  Chronic_obstructive_lung_disease  ",456,-1,0.266168675843979
+22613,"Cohort_covariate during day -99999 through 0 days relative to index:  Diabetes_mellitus  ",456,-1,0.252359670269423
+22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0.243474363627371
+22590,"Cohort_covariate during day -99999 through 0 days relative to index:  Autoimmune_disease  ",456,-1,0.223488858387363
+22606,"Cohort_covariate during day -183 through -4 days relative to index:  Antiinflammatory  ",456,-1,-0.20924599531804
+22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,-0.196587798920367
+22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,0.163155666448039
+22605,"Cohort_covariate during day -183 through -4 days relative to index:  Coxib  ",456,-1,-0.152422788972146
+22612,"Cohort_covariate during day -99999 through 0 days relative to index:  Obesity  ",456,-1,0.133253525790889
+22614,"Cohort_covariate during day -99999 through 0 days relative to index:  Malignant_neoplastic_disease  ",456,-1,0.12829166295288
+22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,-0.124758691073343
+22604,"Cohort_covariate during day -183 through -4 days relative to index:  Corticosteroids  ",456,-1,0.1055312699818
+22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0.0751134859776226
+22592,"Cohort_covariate during day -99999 through 0 days relative to index:  Asthma  ",456,-1,-0.0212554957839735
+22598,"Cohort_covariate during day -183 through -4 days relative to index:  Sex_hormones_modulators  ",456,-1,-0.0132937366316084
+22591,"Cohort_covariate during day -99999 through 0 days relative to index:  Atrial_fibrillation  ",456,-1,-0.0029891295188402
+22609,"Cohort_covariate during day -183 through -4 days relative to index:  Antineoplastic_immunomodulating  ",456,-1,8.59444693006801e-05
+13003,"age group:  65 -  69",3,0,0
+8532001,"gender = FEMALE",1,8532,0
+22594,"Cohort_covariate during day -99999 through 0 days relative to index:  Antiphospholipid_syndrome  ",456,-1,0
