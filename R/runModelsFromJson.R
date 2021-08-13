@@ -65,7 +65,7 @@ runModelsFromJson <- function(outputFolder,
           if(!dir.exists(file.path(outputFolder,cdmDatabaseName,analysisId))){
             dir.create(file.path(outputFolder,cdmDatabaseName,analysisId))
           }
-          PatientLevelPrediction::savePlpData(plpData, file.path(outputFolder,cdmDatabaseName,analysisId, 'plpData'))
+          # PatientLevelPrediction::savePlpData(plpData, file.path(outputFolder,cdmDatabaseName,analysisId, 'plpData'))
         }
 
       } else{
@@ -177,7 +177,7 @@ getAnalyses <- function(jsonSettings){
                        outcomeName = getCohortName(jsonSettings,unlist(lapply(jsonSettings$models, function(x) x$outcomeId)))
   )
 
-  result$analysisId <- paste(result$modelName, result$cohortId, result$outcomeId, sep='_')
+  result$analysisId <- paste(result$modelName, sep='_')
 
   return(result)
 }

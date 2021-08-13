@@ -1,11 +1,11 @@
 Package: CovCoagEmaValidation
 Type: Package
-Title: Add the title of the package here
-Version: 1.0.4
-Date: 2021-06-07
-Author: your name [aut]
-Maintainer: your name <youremail@address>
-Description: Write your study package description here.
+Title: CovCoagEmaValidation
+Version: 1.0.0
+Date: 2021-08-13
+Author: Henrik John
+Maintainer: Henrik John <l.john@erasmusmc.nl>
+Description: Coagulopathy validation in SARS-Cov-2 using EMA predictors age and sex fitted on CPRD Aurum.
 License: Apache License 2.0
 Depends:
   R (>= 3.3.0)

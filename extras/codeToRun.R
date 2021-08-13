@@ -40,7 +40,7 @@ verbosity <- "INFO"
 createCohorts = T
 
 # apply the models in the package to your data?
-runValidation = F
+runValidation = T
 # if you only want to apply models to a sample of
 # patients put the number as the sampleSize
 sampleSize = NULL
@@ -49,7 +49,7 @@ sampleSize = NULL
 recalibrate <- NULL
 
 # extract the results to share as a zip file?
-packageResults = T
+packageResults = F
 # when extracting results - what is the min cell count?
 minCellCount = 5
 
