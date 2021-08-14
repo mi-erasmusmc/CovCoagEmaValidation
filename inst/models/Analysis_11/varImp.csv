@@ -1,21 +1,16 @@
 "covariateId","covariateName","analysisId","conceptId","covariateValue"
-22591,"Cohort_covariate during day -99999 through 0 days relative to index:  Atrial_fibrillation  ",456,-1,-0.977007396401862
-22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,-0.211054361749694
-22616,"Cohort_covariate during day -99999 through 0 days relative to index:  Chronic_obstructive_lung_disease  ",456,-1,0.181608997726404
-22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.177641728818719
-8507001,"gender = MALE",1,8507,0.11780230786538
-14003,"age group:  70 -  74",3,0,0.114076160839641
-22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,0.103995041266683
-22606,"Cohort_covariate during day -183 through -4 days relative to index:  Antiinflammatory  ",456,-1,0.0646726438892503
-22614,"Cohort_covariate during day -99999 through 0 days relative to index:  Malignant_neoplastic_disease  ",456,-1,0.0504900364739017
-15003,"age group:  75 -  79",3,0,0.0479088697822946
-22604,"Cohort_covariate during day -183 through -4 days relative to index:  Corticosteroids  ",456,-1,-0.0443149524776649
-22612,"Cohort_covariate during day -99999 through 0 days relative to index:  Obesity  ",456,-1,0.0404452870012752
-18003,"age group:  90 -  94",3,0,-0.0241591628268313
+22591,"Cohort_covariate during day -99999 through 0 days relative to index:  Atrial_fibrillation  ",456,-1,-0.58521240873804
+22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.0686866604792073
+22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,-0.0486263812020577
+8507001,"gender = MALE",1,8507,0.037234062170102
+22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,0.0222584232865318
+14003,"age group:  70 -  74",3,0,0.0105949873131777
 16003,"age group:  80 -  84",3,0,0
 20003,"age group: 100 - 104",3,0,0
+18003,"age group:  90 -  94",3,0,0
 13003,"age group:  65 -  69",3,0,0
 17003,"age group:  85 -  89",3,0,0
+15003,"age group:  75 -  79",3,0,0
 21003,"age group: 105 - 109",3,0,0
 19003,"age group:  95 -  99",3,0,0
 8532001,"gender = FEMALE",1,8532,0
@@ -23,11 +18,16 @@
 22592,"Cohort_covariate during day -99999 through 0 days relative to index:  Asthma  ",456,-1,0
 22593,"Cohort_covariate during day -99999 through 0 days relative to index:  Thrombophilia  ",456,-1,0
 22594,"Cohort_covariate during day -99999 through 0 days relative to index:  Antiphospholipid_syndrome  ",456,-1,0
+22614,"Cohort_covariate during day -99999 through 0 days relative to index:  Malignant_neoplastic_disease  ",456,-1,0
 22613,"Cohort_covariate during day -99999 through 0 days relative to index:  Diabetes_mellitus  ",456,-1,0
+22612,"Cohort_covariate during day -99999 through 0 days relative to index:  Obesity  ",456,-1,0
 22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0
 22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0
+22616,"Cohort_covariate during day -99999 through 0 days relative to index:  Chronic_obstructive_lung_disease  ",456,-1,0
 22615,"Cohort_covariate during day -99999 through 0 days relative to index:  Dementia  ",456,-1,0
+22606,"Cohort_covariate during day -183 through -4 days relative to index:  Antiinflammatory  ",456,-1,0
 22605,"Cohort_covariate during day -183 through -4 days relative to index:  Coxib  ",456,-1,0
+22604,"Cohort_covariate during day -183 through -4 days relative to index:  Corticosteroids  ",456,-1,0
 22609,"Cohort_covariate during day -183 through -4 days relative to index:  Antineoplastic_immunomodulating  ",456,-1,0
 22608,"Cohort_covariate during day -183 through -4 days relative to index:  Hormonal_contraceptives  ",456,-1,0
 22607,"Cohort_covariate during day -183 through -4 days relative to index:  Tamoxifen  ",456,-1,0

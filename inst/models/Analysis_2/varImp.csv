@@ -1,10 +1,10 @@
 "covariateId","covariateName","analysisId","conceptId","covariateValue"
-8507001,"gender = MALE",1,8507,0.296588912660659
-22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0.274839764109777
-22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.208132698139434
-22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0.158471833509562
-22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,0.126521175422661
-22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,0.0615190460003784
+8507001,"gender = MALE",1,8507,0.261823312635082
+22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0.240236655311389
+22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.189127234184175
+22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0.138588742300775
+22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,0.106286587216207
+22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,0.0413049783118458
 16003,"age group:  80 -  84",3,0,0
 14003,"age group:  70 -  74",3,0,0
 20003,"age group: 100 - 104",3,0,0

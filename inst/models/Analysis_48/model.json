@@ -23,7 +23,7 @@
 "riskWindowEnd": 60,
 "endAnchor": "cohort start",
 "coefficients": {
- "(Intercept)": -9.4374626642654249053521,
+ "(Intercept)": -9.4374626642538714804687,
 "3003":                        0,
 "5003":                        0,
 "6003":                        0,
@@ -57,8 +57,8 @@
 "22618":                        0,
 "8507001":                        0 
 },
-"priorVariance": 0.018002745636024549552578,
-"log_likelihood": -250.50006010521556731874,
+"priorVariance": 0.012692495701866542134884,
+"log_likelihood": -250.50006010493837038666,
 "modelType": "logistic",
 "modelStatus": "OK",
 "populationCounts": {

@@ -1,11 +1,10 @@
 "covariateId","covariateName","analysisId","conceptId","covariateValue"
-22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,0.827257066495332
-8507001,"gender = MALE",1,8507,0.523681690591234
-22604,"Cohort_covariate during day -183 through -4 days relative to index:  Corticosteroids  ",456,-1,-0.484517730955719
-22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0.387873442894771
-22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0.3656739207731
-22615,"Cohort_covariate during day -99999 through 0 days relative to index:  Dementia  ",456,-1,-0.205878356359831
-22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.185796950345792
+22603,"Cohort_covariate during day -183 through -4 days relative to index:  Antithrombotic_agent  ",456,-1,0.784133709376351
+8507001,"gender = MALE",1,8507,0.455132247541656
+22611,"Cohort_covariate during day -99999 through 0 days relative to index:  Heart_disease  ",456,-1,0.308176500960118
+22604,"Cohort_covariate during day -183 through -4 days relative to index:  Corticosteroids  ",456,-1,-0.293976709254265
+22617,"Cohort_covariate during day -99999 through 0 days relative to index:  Renal_impairment  ",456,-1,0.284011131147509
+22610,"Cohort_covariate during day -183 through -4 days relative to index:  Lipid_modifying_agent  ",456,-1,0.123951869769494
 16003,"age group:  80 -  84",3,0,0
 14003,"age group:  70 -  74",3,0,0
 20003,"age group: 100 - 104",3,0,0
@@ -26,6 +25,7 @@
 22612,"Cohort_covariate during day -99999 through 0 days relative to index:  Obesity  ",456,-1,0
 22618,"Cohort_covariate during day -99999 through 0 days relative to index:  Hypertensive_disorder  ",456,-1,0
 22616,"Cohort_covariate during day -99999 through 0 days relative to index:  Chronic_obstructive_lung_disease  ",456,-1,0
+22615,"Cohort_covariate during day -99999 through 0 days relative to index:  Dementia  ",456,-1,0
 22606,"Cohort_covariate during day -183 through -4 days relative to index:  Antiinflammatory  ",456,-1,0
 22605,"Cohort_covariate during day -183 through -4 days relative to index:  Coxib  ",456,-1,0
 22609,"Cohort_covariate during day -183 through -4 days relative to index:  Antineoplastic_immunomodulating  ",456,-1,0
