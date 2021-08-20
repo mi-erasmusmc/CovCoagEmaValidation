@@ -46,10 +46,10 @@ runValidation = T
 sampleSize = NULL
 # do you want to recalibrate results?
 # NULL means none (see ?CovCoagEmaValidation::execute for options)
-recalibrate <- NULL
+recalibrate <- c('RecalibrationintheLarge', 'weakRecalibration')
 
 # extract the results to share as a zip file?
-packageResults = F
+packageResults = T
 # when extracting results - what is the min cell count?
 minCellCount = 5
 
