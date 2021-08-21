@@ -46,7 +46,7 @@ runValidation = T
 sampleSize = NULL
 # do you want to recalibrate results?
 # NULL means none (see ?CovCoagEmaValidation::execute for options)
-recalibrate <- c('RecalibrationintheLarge', 'weakRecalibration')
+recalibrate <- c('recalibrationInTheLarge', 'weakRecalibration')
 
 # extract the results to share as a zip file?
 packageResults = T
