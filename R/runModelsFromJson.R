@@ -118,7 +118,7 @@ runModelsFromJson <- function(outputFolder,
 
               evaluation$prediction <- recal$prediction
               evaluation$performanceEvaluation <- PatientLevelPrediction::addRecalibration(evaluation$performanceEvaluation,
-                                                                                           recalibration = recal)
+                                                                                           recalibration = recal$performanceEvaluation)
             }
 
           }
