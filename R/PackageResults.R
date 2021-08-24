@@ -73,6 +73,7 @@ packageResults <- function(outputFolder,
         result$inputSetting$populationSettings$plpData <- NULL
       }
       PatientLevelPrediction::savePlpToCsv(result, file.path(exportFolder,folder))
+      saveRDS(plpResult, file.path(exportFolder, folder, "validationResult.rds"))
 
     }
   }
