@@ -23,7 +23,7 @@ System Requirements
 
 Dependencies
 ============
-  * PatientLevelPrediction
+  * **PatientLevelPrediction:** This validation package relies on experimental features that have not yet been merged into the master branch of OHDSI's PatientLevelPrediction package. Therefore, to run this package you currently require the latest PatientLevelPrediction version from the “develop” branch, which you can find here: https://github.com/OHDSI/PatientLevelPrediction/tree/develop
 
 Building the package inside RStudio
 ===============
